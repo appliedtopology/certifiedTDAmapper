@@ -1,0 +1,14 @@
+Package: certifiedTDAmapper
+Type: Package
+Title: Implements the Certified Mapper Method 
+Version: 0.1.0
+Author: Mikael Vejdemo-Johansson and Alisa Leshchenko
+Maintainer: Mikael Vejdemo-Johansson <mikael@appliedtopology.org>
+Description: This package implements two of the Certified Mapper methods
+    from Vejdemo-Johansson and Leshchenko: Certified Mapper: Repeated
+    Testing for Acyclicity and Obstructions to the Nerve Lemma.
+License: CC-BY
+Encoding: UTF-8
+LazyData: true
+Imports: magrittr, tibble, dplyr, TDA, TDAmapper, igraph, parallel
+RoxygenNote: 6.1.0
